@@ -1,0 +1,10 @@
+[project]
+name = "marimo-sqlite"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "altair>=6.3.0",
+    "marimo>=0.25.2",
+    "pandas>=3.1.0",
+]
